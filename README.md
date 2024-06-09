@@ -2,17 +2,26 @@
 
 New-Focus-Web
 
-1️/ Technologie
-Frontend
+1️/ Technologie Frontend
+
 Framework : React.js
+
 Gestion d'état : Redux
+
 Outil de Build : npm
+
 Backend
+
 Environnement : Node.js v12
+
 Base de données : MongoDB
+
 Déploiement
+
 Outil CI précédent : Gitlab-CI (désormais obsolète)
+
 2️/ Structure du Projet
+
 La structure suivante permettra au projet de croître efficacement et de faciliter sa maintenance.
 
 Structure du Frontend
